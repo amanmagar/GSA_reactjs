@@ -1,0 +1,21 @@
+.as{
+    text-align: center;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+#txtRadius {
+    font-size: 20px;
+    padding: 20px;
+    width: 20%;
+}
+
+#btn{
+    font-size: 20px;
+    padding: 20px;
+}
+
+#result{
+    font-size: 25px;
+    padding: 20px;
+}

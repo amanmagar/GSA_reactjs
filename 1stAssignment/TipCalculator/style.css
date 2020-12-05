@@ -1,0 +1,22 @@
+.main{
+    font-size: 22px;
+    text-align: center;
+    background-color: burlywood;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+#inputAmt , #inputTip{
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    width: 50%;
+}
+
+#btnCalculate{
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    width: 20%;
+}
+

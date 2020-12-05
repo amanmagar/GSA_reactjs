@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#clock{
+    font-size: 70px;
+    margin: 20%;
+}
+
